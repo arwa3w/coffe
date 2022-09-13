@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>coffe</title>
+
+
+
+</head>
+<body style="background:#331a00">
+<div style="background-color:#000000;width:100%; height:40px;margin-top:-10px;margin-left:-10px;padding-left:25px;">
+<nav>
+<br>
+<a style="text-decoration: none;color:#ffffff" href="">Home</a>
+<a style="text-decoration: none;color:#ffffff ; padding-left:25px;" href="">Services</a>
+<a style="text-decoration: none;color:#ffffff ; padding-left:25px;" href="">Products</a>
+<a style="text-decoration: none;color:#ffffff ; padding-left:25px;" href="">About us</a>
+<a style="text-decoration: none;color:#ffffff ; padding-left:25px;" href="">Login</a>
+</nav>
+</div>
+<br/>
+
+<img src="ouyt.jpg" style="margin:10px 60px; width:90% ;height:150px;border-radius:20px;"/>
+<br/>
+<p style="margin:5px 500px;"><b>we will be happy if you checked our products</b></p>
+<div style="background:#000000;color:#ffffff;text-align:center; width:300px ;height:275px;padding-left:2px; border-radius:10px;"></br>
+<p style="margin-top:-8px"><b>Iatino Coffee</b></p>
+<img src="kgt.jpg" style="width:230px; height:190px;"/>
+<p style ="margin-top:-32px">100$</p>
+<button style="background:#ffffff; color#000000;border-radius:6px;margin-top:-20px;height:30px;"><b>click here</b></button>
+</div>
+<br/>
+<div style="background:#000000;color:#ffffff;text-align:center; width:300px ;height:275px;padding-left:2px; border-radius:10px;margin-left:300px;"></br>
+<p style="margin-top:-8px"><b>Iatino Coffee</b></p>
+<img src="iuy.jpg" style="width:230px; height:170px;"/>
+<p style ="margin-top:-5px">100$</p>
+<button style="background:#ffffff; color#000000;border-radius:6px;margin-top:-30px;height:30px;"><b>click here</b></button>
+</div>
+</br>
+<div style="background:#000000;color:#ffffff;text-align:center; width:300px ;height:275px;padding-left:2px; border-radius:10px;margin-left:600px;"></br>
+<p style="margin-top:-8px"><b>Iatino Coffee</b></p>
+<img src="iug.jpg" style="width:230px; height:170px;"/>
+<p style ="margin-top:-5px">100$</p>
+<button style="background:#ffffff; color#000000;border-radius:6px;margin-top:-30px;height:30px;"><b>click here</b></button>
+</div>
+</br>
+<div style="background:#000000;color:#ffffff;text-align:center; width:300px ;height:275px;padding-left:2px; border-radius:10px;margin-left:900px;"></br>
+<p style="margin-top:-8px"><b>Iatino Coffee</b></p>
+<img src="ooi.jpg" style="width:230px; height:170px;"/>
+<p style ="margin-top:-5px">100$</p>
+<button style="background:#ffffff; color#000000;border-radius:6px;margin-top:-30px;height:30px;"><b>click here</b></button>
+</div>
+
